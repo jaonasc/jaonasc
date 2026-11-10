@@ -1,0 +1,146 @@
+{
+  "widgets": [
+    {
+      "widgetId": "header",
+      "name": "Header Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 96
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 1,
+      "instanceId": "widget_1794315684608_0"
+    },
+    {
+      "widgetId": "bio",
+      "name": "Bio Widget",
+      "position": {
+        "x": 0,
+        "y": 112
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "customTitle": "",
+        "customBio": "Aprendendo programação e construindo meus primeiros projetos.",
+        "textAlign": "left"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2,
+      "instanceId": "widget_1794315684608_1"
+    },
+    {
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
+      "position": {
+        "x": 0,
+        "y": 248
+      },
+      "size": {
+        "width": 800,
+        "height": 140
+      },
+      "config": {
+        "selectedTechs": [
+          "js",
+          "py",
+          "html",
+          "css",
+          "bootstrap",
+          "mysql",
+          "docker",
+          "git"
+        ]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3,
+      "instanceId": "widget_1794315684608_2"
+    },
+    {
+      "widgetId": "repositories",
+      "name": "Repositories Widget",
+      "position": {
+        "x": 0,
+        "y": 404
+      },
+      "size": {
+        "width": 800,
+        "height": 300
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 4,
+      "instanceId": "widget_1794315684608_3"
+    },
+    {
+      "widgetId": "social-media",
+      "name": "Social-media Widget",
+      "position": {
+        "x": 0,
+        "y": 720
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "selectedSocials": [
+          "github",
+          "linkedin",
+          "email",
+          "instagram"
+        ],
+        "socialUrls": {
+          "github": "https://github.com/jaonasc",
+          "instagram": "https://www.instagram.com/jaov.n/",
+          "email": "mailto:joaovnascimentocost@gmail.com",
+          "linkedin": "https://www.linkedin.com/in/jo%C3%A3o-vitor-do-nascimento-costa-82431b326/"
+        }
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 5,
+      "instanceId": "widget_1794315684608_4"
+    },
+    {
+      "instanceId": "widget_25c66f40-3388-4dac-acab-f8c67f387f29",
+      "widgetId": "contribution-snake",
+      "name": "Contribution-snake Widget",
+      "position": {
+        "x": 0,
+        "y": 856
+      },
+      "size": {
+        "width": 800,
+        "height": 250
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#080808",
+    "textColor": "#ffffff",
+    "accentColor": "#f3f4f6",
+    "borderColor": "#222222",
+    "fontFamily": "'Inter Tight', sans-serif",
+    "borderRadius": 8,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "minimal_luxe"
+  },
+  "templateId": "minimal_luxe"
+}
